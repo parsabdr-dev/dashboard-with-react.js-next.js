@@ -66,7 +66,7 @@ Clean UI structure
 ## Screenshots
 
 ### 🔐 Login Page
-![Login Page](Screenshots/Login.jpg)
+![Login Page](Screenshots/login.jpg)
 
 ### 🏠 Dashboard Home
 ![Dashboard Home](Screenshots/Home.jpg)
