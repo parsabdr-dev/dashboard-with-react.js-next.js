@@ -1,0 +1,101 @@
+* {
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.login-body-wrapper {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+  color: #555;
+  background-color: #f6f6f6;
+  font-weight: 700;
+}
+
+.login-div {
+  height: 700px;
+  width: 430px;
+  background-color: #ecf0f3;
+  border-radius: 40px;
+  padding: 60px 35px 35px 35px;
+  box-shadow: 13px 13px 20px #cbced1, -13px -13px 20px #ffffff;
+}
+
+.logo {
+  background: url('./sales_logo.jpg');
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  background-size: cover;
+  background-position: center;
+  margin: 0 auto;
+  box-shadow: 0px 0px 2px #5f5f5f,
+    0px 0px 0px 5px #ecf0f3,
+    8px 8px 15px #afaaa7,
+    -8px -8px 15px #ffffff;
+}
+
+.title {
+  text-align: center;
+  font-size: 28px;
+  padding-top: 24px;
+}
+
+.fields {
+  width: 100%;
+  padding: 75px 5px 5px 5px;
+}
+
+.fields input {
+  border: none;
+  background: none;
+  outline: none;
+  font-size: 18px;
+  padding: 20px 10px 20px 5px;
+}
+
+.username,
+.password {
+  box-shadow: 8px 8px 8px #cbced1, -8px -8px 8px #ffffff;
+  border-radius: 25px;
+  margin-bottom: 30px;
+}
+
+.svg-icon {
+  height: 22px;
+  margin: 0 10px -4px 25px;
+}
+
+.login-button {
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  height: 60px;
+  border-radius: 30px;
+  background-color: #02c8db;
+  font-size: 20px;
+  font-weight: 700;
+  color: white;
+  margin-top: 50px;
+  box-shadow: 3px 3px 8px #b1b1b1, -3px -3px 8px #ffffff;
+  transition: all 0.3s ease-in;
+}
+
+.login-button:hover {
+  background: #50e5b9;
+  font-size: 25px;
+}
+
+.link {
+  padding-top: 70px;
+  text-align: center;
+}
+
+.link a {
+  text-decoration: none;
+  color: #aaa;
+  font-size: 15px;
+}
