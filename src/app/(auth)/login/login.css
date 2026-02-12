@@ -16,7 +16,7 @@
 }
 
 .login-div {
-  height: 700px;
+  height: 600px;
   width: 430px;
   background-color: #ecf0f3;
   border-radius: 40px;
@@ -46,7 +46,7 @@
 
 .fields {
   width: 100%;
-  padding: 75px 5px 5px 5px;
+  padding: 25px 5px 5px 5px;
 }
 
 .fields input {
@@ -54,7 +54,7 @@
   background: none;
   outline: none;
   font-size: 18px;
-  padding: 20px 10px 20px 5px;
+  padding: 10px 10px 10px 5px;
 }
 
 .username,
@@ -65,8 +65,9 @@
 }
 
 .svg-icon {
-  height: 22px;
-  margin: 0 10px -4px 25px;
+  height: 30px;
+  width: 35px;
+  margin: 10px 30px 0px 10px;
 }
 
 .login-button {
@@ -79,7 +80,7 @@
   font-size: 20px;
   font-weight: 700;
   color: white;
-  margin-top: 50px;
+  margin-top: 7px;
   box-shadow: 3px 3px 8px #b1b1b1, -3px -3px 8px #ffffff;
   transition: all 0.3s ease-in;
 }
@@ -90,7 +91,7 @@
 }
 
 .link {
-  padding-top: 70px;
+  padding-top: 20px;
   text-align: center;
 }
 
