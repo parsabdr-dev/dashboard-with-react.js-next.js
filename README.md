@@ -61,8 +61,23 @@ Fully custom HTML & CSS design
 
 Responsive layout
 Styled inputs and animated button
-
 Clean UI structure
+
+## Screenshots
+
+### 🔐 Login Page
+![Login Page](Screenshots/Login.jpg)
+
+### 🏠 Dashboard Home
+![Dashboard Home](Screenshots/Home.jpg)
+
+### 👥 Users Page
+![Users Page](Screenshots/Users.jpg)
+
+### 📦 Products Page
+![Products Page](Screenshots/Products.jpg)
+
+
 
 📂 Project Structure (Important Parts)
 
@@ -157,14 +172,6 @@ localStorage for session persistence
 
 If no user exists in localStorage, the dashboard route automatically redirects to /login.
 
-🖼 Screenshots
-🔹 Login Page
-
-🔹 Dashboard Main Page
-
-🔹Users Page
-
-🔹 Products Page
 
 🎯 Technical Highlights
 
