@@ -187,9 +187,11 @@ Custom styled UI
 
 Context-based authentication
 
-👨‍💻 Author
 
-Frontend Developer – Task 1 Implementation
-Built as part of frontend assessment project.
-Styled inputs and animated button
+📌 Author
+
+Parsa Badri Computer Engineering Graduate Passionate about Frontend & AI Development
+
+GitHub: https://github.com/parsabdr-dev
+
 
