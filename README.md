@@ -5,10 +5,12 @@ When opening the project for the first time, you will be redirected to the login
 
 Use the following credentials to access the main dashboard:
 
-Username:         admin@example.com  
+Username:
+                admin@example.com  
 
 
-Password:          123456
+Password:  
+                123456
 
 
 You must enter these credentials to access the main application.
@@ -82,16 +84,20 @@ Clean UI structure
 
 🛠 Installation & Running the Project
 
-1️⃣ Clone the repository
+1️⃣ Clone the repository:
+
                         git clone https://github.com/parsabdr-dev/dashboard-with-react.js-next.js.git
 
-2️⃣ Navigate into project folder
+2️⃣ Navigate into project folder:
+
                         cd dashboard-with-react.js-next.js
 
-3️⃣ Install dependencies
+3️⃣ Install dependencies:
+
                         npm install
 
-4️⃣ Run development server
+4️⃣ Run development server:
+
                         npm run dev
 
 
