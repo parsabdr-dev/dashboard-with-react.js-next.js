@@ -122,7 +122,7 @@ If no user exists in localStorage, the dashboard route automatically redirects t
 
 
 
-📂 Project Structure (Important Parts)
+📂 Project Structure (Important Parts):
 
 
 
