@@ -83,21 +83,21 @@ Clean UI structure
 🛠 Installation & Running the Project
 
 1️⃣ Clone the repository
-        git clone https://github.com/parsabdr-dev/dashboard-with-react.js-next.js.git
+                        git clone https://github.com/parsabdr-dev/dashboard-with-react.js-next.js.git
 
 2️⃣ Navigate into project folder
-        cd dashboard-with-react.js-next.js
+                        cd dashboard-with-react.js-next.js
 
 3️⃣ Install dependencies
-        npm install
+                        npm install
 
 4️⃣ Run development server
-        npm run dev
+                        npm run dev
 
 
 Then open:
 
-        http://localhost:3000
+                        http://localhost:3000
 
 
 You will be redirected to the login page.
