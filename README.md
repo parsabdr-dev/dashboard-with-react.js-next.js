@@ -179,8 +179,6 @@ frontend-test/
 ├── tsconfig.json
 └── README.md
 
-Clean UI structure
-
 
 
 🎯 Technical Highlights
@@ -196,6 +194,10 @@ Clean project structure
 Custom styled UI
 
 Context-based authentication
+
+Clean UI structure
+
+
 
 
 📌 Author
