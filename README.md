@@ -5,8 +5,10 @@ When opening the project for the first time, you will be redirected to the login
 
 Use the following credentials to access the main dashboard:
 
-Username: admin@example.com  
-Password: 123456
+Username:         admin@example.com  
+
+
+Password:          123456
 
 
 You must enter these credentials to access the main application.
@@ -78,6 +80,41 @@ Clean UI structure
 ![Products Page](Screenshots/Products.jpg)
 
 
+🛠 Installation & Running the Project
+
+1️⃣ Clone the repository
+        git clone https://github.com/parsabdr-dev/dashboard-with-react.js-next.js.git
+
+2️⃣ Navigate into project folder
+        cd dashboard-with-react.js-next.js
+
+3️⃣ Install dependencies
+        npm install
+
+4️⃣ Run development server
+        npm run dev
+
+
+Then open:
+
+        http://localhost:3000
+
+
+You will be redirected to the login page.
+
+🔒 Authentication Logic
+
+Authentication is handled using:
+
+AuthContext.tsx
+
+React Context API
+
+localStorage for session persistence
+
+If no user exists in localStorage, the dashboard route automatically redirects to /login.
+
+
 
 📂 Project Structure (Important Parts)
 
@@ -139,39 +176,6 @@ frontend-test/
 Clean UI structure
 
 
-🛠 Installation & Running the Project
-1️⃣ Clone the repository
-git clone https://github.com/parsabdr-dev/dashboard-with-react.js-next.js.git
-
-2️⃣ Navigate into project folder
-cd dashboard-with-react.js-next.js
-
-3️⃣ Install dependencies
-npm install
-
-4️⃣ Run development server
-npm run dev
-
-
-Then open:
-
-http://localhost:3000
-
-
-You will be redirected to the login page.
-
-🔒 Authentication Logic
-
-Authentication is handled using:
-
-AuthContext.tsx
-
-React Context API
-
-localStorage for session persistence
-
-If no user exists in localStorage, the dashboard route automatically redirects to /login.
-
 
 🎯 Technical Highlights
 
@@ -192,6 +196,6 @@ Context-based authentication
 
 Parsa Badri Computer Engineering Graduate Passionate about Frontend & AI Development
 
-GitHub: https://github.com/parsabdr-dev
+          GitHub: https://github.com/parsabdr-dev
 
 
